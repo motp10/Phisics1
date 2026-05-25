@@ -1,0 +1,6 @@
+{
+  "name": "Coil Magnetic Induction Optimizer",
+  "description": "Рассчитывает параметры цилиндрической катушки и строит интерактивный график индукции B(l) для поиска оптимальной длины каркаса.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
